@@ -1,10 +1,11 @@
 Overview
-
 Throughout this assignment, you will be performing specific well-defined tasks that’ll strengthen your concepts in data visualization. We will be using the 2021 world happiness report for the assignment and here is a brief context about the same - “The World Happiness Report 2021 focuses on the effects of COVID-19 and how people all over the world have fared. The objective of the report was two-fold, first to focus on the effects of COVID-19 on the structure and quality of people’s lives, and second to describe and evaluate how governments all over the world have dealt with the pandemic.”
 
 As part of the assignment, you will have to accomplish the below tasks.
 
 Author: Chintoo Kumar Contributor: Chanukya Patnaik
+
+
 
 
 
