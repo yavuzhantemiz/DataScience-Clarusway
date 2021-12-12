@@ -13,7 +13,9 @@ This project requires you to explore given data set, design interactive dashboar
 ### Instructions
 There are two milestones in the project.
 #### Creating Dashboard - First Milestone
+
 * Import the dataset using Web Data Connector. Go to Connect > To a Server > Web Data Connector and paste https://tableau.data.world/?dataset_name=covid-19-data-resource-hub%2Fcovid-19-case-counts&query=SELECT%20*%20FROM%20covid_19_activity&queryType=SQL in the box. 
+
 <div class="alert alert-danger" role="alert">
     <b>☝Important:</b> The dataset is a large dataset and may need extra computing time when creating views in Tableau depending on your computer's hardware spesifications. In case you have problem to create the viz due to hardware, write a SQL query in the web connector page to return a specific date range or first n rows. We leave to you to decide on how many rows or which date range you will work.
 </div>
